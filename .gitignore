@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+dist
+.vercel
+.VSCodeCounter
+.env*
+!.env.example
+.autosave
+.wav
+!static/sounds/music/*.wav
+.wrangler/
+.dev.vars
+legacy/node_modules
+legacy/dist
+legacy/.wrangler

@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "title": "My Digital Playground",
+    "tagline": "// 6 worlds. infinite chaos. tiny anime friends included.",
+    "welcomeTitle": "My Digital Playground",
+    "welcomeLead": "Welcome to my chaotic anime-fueled corner of the internet.",
+    "welcomeBody": "Drive anywhere. ENTER at // markers for mood, thoughts, music, jokes, and quotes. Same chaos energy as the old 2D site — now in 3D.",
+    "footer": "made with chaos and too much caffeine",
+    "footerSub": "// 2026 • existence is temporary, code is forever"
+  },
+  "moods": [
+    {
+      "emoji": "😴",
+      "label": "sleepy",
+      "message": "zzz... five more minutes...",
+      "powerLevel": 20
+    },
+    {
+      "emoji": "🔥",
+      "label": "on fire",
+      "message": "ULTRA INSTINCT ACTIVATED",
+      "powerLevel": 100
+    },
+    {
+      "emoji": "✨",
+      "label": "vibing",
+      "message": "everything is aesthetic rn",
+      "powerLevel": 75
+    },
+    {
+      "emoji": "🌧️",
+      "label": "melancholic",
+      "message": "listening to sad songs on repeat",
+      "powerLevel": 35
+    },
+    {
+      "emoji": "🎮",
+      "label": "gaming",
+      "message": "one more game... or ten",
+      "powerLevel": 85
+    },
+    {
+      "emoji": "💭",
+      "label": "overthinking",
+      "message": "my brain has infinite tabs open",
+      "powerLevel": 60
+    },
+    {
+      "emoji": "⚡",
+      "label": "HYPED",
+      "message": "PLUS ULTRAAA!!!",
+      "powerLevel": 150
+    },
+    {
+      "emoji": "🌸",
+      "label": "soft",
+      "message": "feeling like a main character",
+      "powerLevel": 50
+    }
+  ],
+  "thoughts": [
+    "why does 2am feel different than 2pm",
+    "i think my cat judges me",
+    "what if colors look different to everyone",
+    "forgot why i walked into this room again",
+    "is water wet or does it make things wet",
+    "i should probably sleep more",
+    "that embarrassing thing from 2019 is haunting me rn",
+    "ctrl+z should work in real life",
+    "why do i remember all song lyrics but not what i studied",
+    "my brain has too many tabs open",
+    "i wonder what my parallel universe self is doing",
+    "should i learn to cook or just vibe",
+    "plot twist: the main character was me all along",
+    "existential crisis speedrun any%",
+    "is cereal soup? discuss.",
+    "what if we're all NPCs in someone's game"
+  ],
+  "songs": [
+    {
+      "title": "Unravel",
+      "artist": "TK from Ling Tosite Sigure",
+      "vibe": "emotional damage",
+      "genre": "anime",
+      "bpm": 130
+    },
+    {
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "vibe": "goes crazy",
+      "genre": "anime",
+      "bpm": 150
+    },
+    {
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "vibe": "3am feels",
+      "genre": "sad",
+      "bpm": 85
+    },
+    {
+      "title": "Pink + White",
+      "artist": "Frank Ocean",
+      "vibe": "nostalgia trip",
+      "genre": "chill",
+      "bpm": 95
+    },
+    {
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "vibe": "villain arc",
+      "genre": "alt",
+      "bpm": 135
+    },
+    {
+      "title": "Shinunoga E-Wa",
+      "artist": "Fujii Kaze",
+      "vibe": "immaculate vibes",
+      "genre": "japanese",
+      "bpm": 110
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "vibe": "summer nights",
+      "genre": "indie",
+      "bpm": 80
+    },
+    {
+      "title": "Bury the Light",
+      "artist": "Casey Edwards",
+      "vibe": "MOTIVATED",
+      "genre": "game",
+      "bpm": 160
+    }
+  ],
+  "jokes": [
+    {
+      "setup": "Why do programmers prefer dark mode?",
+      "punchline": "Because light attracts bugs.",
+      "emoji": "🪲",
+      "rating": 4.2
+    },
+    {
+      "setup": "Why did the anime fan bring a ladder to the convention?",
+      "punchline": "To reach the next level of weeb.",
+      "emoji": "🪜",
+      "rating": 3.8
+    },
+    {
+      "setup": "What's a computer's favorite snack?",
+      "punchline": "Microchips.",
+      "emoji": "💻",
+      "rating": 4.5
+    },
+    {
+      "setup": "Why don't scientists trust atoms?",
+      "punchline": "Because they make up everything.",
+      "emoji": "⚛️",
+      "rating": 4.7
+    },
+    {
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta.",
+      "emoji": "🍝",
+      "rating": 4.9
+    },
+    {
+      "setup": "Why did the coffee file a police report?",
+      "punchline": "It got mugged.",
+      "emoji": "☕",
+      "rating": 4.1
+    },
+    {
+      "setup": "What's an introvert's favorite key?",
+      "punchline": "Escape.",
+      "emoji": "⌨️",
+      "rating": 4.8
+    },
+    {
+      "setup": "Why did the scarecrow win an award?",
+      "punchline": "He was outstanding in his field.",
+      "emoji": "🌾",
+      "rating": 4.3
+    },
+    {
+      "setup": "What's a skeleton's least favorite room?",
+      "punchline": "The living room.",
+      "emoji": "💀",
+      "rating": 4.0
+    },
+    {
+      "setup": "Why don't eggs tell jokes?",
+      "punchline": "They'd crack each other up.",
+      "emoji": "🥚",
+      "rating": 3.9
+    }
+  ],
+  "quotes": [
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "motivation"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "wisdom"
+    },
+    {
+      "text": "It's not the face that makes someone a monster, it's the choices they make with their lives.",
+      "author": "Naruto",
+      "category": "anime"
+    },
+    {
+      "text": "The world isn't perfect. But it's there for us, doing the best it can.",
+      "author": "Roy Mustang",
+      "category": "anime"
+    },
+    {
+      "text": "If you don't take risks, you can't create a future.",
+      "author": "Monkey D. Luffy",
+      "category": "anime"
+    },
+    {
+      "text": "A lesson without pain is meaningless.",
+      "author": "Edward Elric",
+      "category": "anime"
+    },
+    {
+      "text": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+      "author": "Kenshin Himura",
+      "category": "anime"
+    },
+    {
+      "text": "The moment you think of giving up, think of the reason why you held on so long.",
+      "author": "Natsu Dragneel",
+      "category": "anime"
+    },
+    {
+      "text": "Fear is not evil. It tells you what your weakness is.",
+      "author": "Gildarts",
+      "category": "anime"
+    },
+    {
+      "text": "Even if I die, you keep living okay? Live to see the end of this world.",
+      "author": "Eren Yeager",
+      "category": "anime"
+    },
+    {
+      "text": "Hard work is worthless for those that don't believe in themselves.",
+      "author": "Naruto",
+      "category": "anime"
+    },
+    {
+      "text": "Believe in yourself. Not in the you who believes in me. Believe in the you who believes in yourself.",
+      "author": "Kamina",
+      "category": "anime"
+    },
+    {
+      "text": "People's lives don't end when they die. It ends when they lose faith.",
+      "author": "Itachi Uchiha",
+      "category": "anime"
+    },
+    {
+      "text": "A dropout will beat a genius through hard work.",
+      "author": "Rock Lee",
+      "category": "anime"
+    },
+    {
+      "text": "The world is cruel, but also very beautiful.",
+      "author": "Mikasa Ackerman",
+      "category": "anime"
+    },
+    {
+      "text": "Reject modernity, embrace chaos.",
+      "author": "Someone on the internet",
+      "category": "chaotic"
+    },
+    {
+      "text": "Sleep is for the weak... and I am very weak.",
+      "author": "Every developer ever",
+      "category": "chaotic"
+    }
+  ],
+  "zones": {
+    "mood": { "label": "Vibe shrine", "area": "projects" },
+    "thoughts": { "label": "Thought bench", "area": "behindTheScene" },
+    "music": { "label": "Radio", "area": "timeMachine" },
+    "jokes": { "label": "Comedy board", "area": "cookie" },
+    "quotes": { "label": "Fortune kiosk", "area": "lab" }
+  }
+}

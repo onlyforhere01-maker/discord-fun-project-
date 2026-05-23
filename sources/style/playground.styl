@@ -1,0 +1,143 @@
+
+.playground-panel
+    max-width 520px
+
+    .playground-kicker
+        font-family monospace
+        font-size 11px
+        letter-spacing 0.08em
+        text-transform uppercase
+        opacity 0.65
+        margin-bottom 12px
+
+    .playground-hero
+        display flex
+        align-items center
+        gap 16px
+        margin 12px 0 20px
+
+    .playground-emoji
+        font-size 48px
+        line-height 1
+
+    .playground-title
+        font-size 28px
+        margin 0
+
+    .playground-subtitle
+        margin 4px 0 0
+        font-family monospace
+        font-size 13px
+        opacity 0.8
+
+    .playground-bar
+        height 8px
+        border-radius 999px
+        background rgba(255, 255, 255, 0.12)
+        overflow hidden
+        margin 8px 0 16px
+
+        .playground-bar-fill
+            display block
+            height 100%
+            width 40%
+            border-radius inherit
+            background linear-gradient(90deg, #00e5ff, #ff6bb5, #ff9f6b)
+            box-shadow 0 0 12px rgba(0, 229, 255, 0.35)
+            transition width 0.35s ease
+
+    .playground-chips
+        display flex
+        flex-wrap wrap
+        gap 8px
+
+    .playground-chip
+        border 1px solid rgba(255, 255, 255, 0.25)
+        background rgba(255, 255, 255, 0.06)
+        color inherit
+        border-radius 999px
+        padding 6px 10px
+        font-size 12px
+        cursor pointer
+        transition transform 0.15s ease, border-color 0.15s ease
+
+        &.is-active
+            border-color #00e5ff
+            box-shadow 0 0 14px rgba(0, 229, 255, 0.45)
+
+        html:not(.is-mode-touch) &:hover
+            transform scale(1.03)
+
+    .playground-actions
+        display flex
+        flex-wrap wrap
+        gap 10px
+        margin-top 16px
+
+    .playground-button
+        border 1px solid rgba(255, 255, 255, 0.3)
+        background rgba(255, 255, 255, 0.08)
+        color inherit
+        border-radius 8px
+        padding 8px 14px
+        font-family monospace
+        font-size 13px
+        cursor pointer
+
+        html:not(.is-mode-touch) &:hover
+            border-color #ff7eb9
+
+    .playground-thought
+        font-size 18px
+        line-height 1.5
+        margin 12px 0
+
+    .playground-eq
+        display flex
+        align-items flex-end
+        justify-content center
+        gap 4px
+        height 48px
+        margin 16px 0
+
+        .js-music-bar
+            width 8px
+            border-radius 4px
+            background linear-gradient(180deg, #ff7eb9, #7afcff)
+            height 30%
+            transition height 0.1s linear
+
+    .playground-joke-setup
+        font-size 18px
+        margin 8px 0 12px
+
+    .playground-joke-punchline
+        font-size 22px
+        font-weight 700
+        margin 0
+        opacity 0
+        transform translateY(8px)
+        transition opacity 0.25s ease, transform 0.25s ease
+
+        &.is-visible
+            opacity 1
+            transform translateY(0)
+
+    .playground-quote
+        font-size 22px
+        line-height 1.45
+        margin 12px 0
+
+    .playground-quote-author
+        font-family monospace
+        opacity 0.75
+
+    .playground-tag
+        display inline-block
+        margin-left 8px
+        padding 2px 8px
+        border-radius 999px
+        border 1px solid rgba(255, 255, 255, 0.25)
+        font-size 11px
+        font-family monospace
+        text-transform uppercase

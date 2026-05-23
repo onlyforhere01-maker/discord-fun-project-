@@ -1,0 +1,51 @@
+// Cyberpunk overlay theme — inspired by legacy 2D playground, not Bruno portfolio chrome
+
+html.is-chaos-theme
+    background radial-gradient(farthest-side at 50% 0%, #0a1628 0%, #060610 45%, #120818 100%)
+
+    .navigation .item[data-name="achievements"],
+    .navigation .item[data-name="circuit"],
+    .navigation .item[data-name="whispers"],
+    .navigation .item[data-name="behindTheScene"],
+    .preview.achievements-preview,
+    .preview.circuit-preview,
+    .preview.whispers-preview,
+    .preview.behindTheScene-preview,
+    .content.achievements-content,
+    .content.circuit-content,
+    .content.whispers-content,
+    .content.behindTheScene-content
+        display none !important
+
+    .menu .content-inner,
+    .modals .content
+        background radial-gradient(ellipse at top left, #0f1a2e, #0a0812) !important
+        border 1px solid rgba(0, 229, 255, 0.2)
+        box-shadow 0 0 24px rgba(255, 107, 181, 0.12), inset 0 0 40px rgba(0, 229, 255, 0.04)
+
+    .menu .title,
+    .modals .title
+        font-family "JetBrains Mono", "Geist Mono", monospace
+        letter-spacing 0.04em
+        text-shadow 0 0 12px rgba(0, 229, 255, 0.45)
+
+    .menu .text,
+    .modals .text
+        font-family "Space Grotesk", "Nunito", sans-serif
+
+    .interactive-point .label
+        font-family "JetBrains Mono", monospace
+        text-transform lowercase
+        letter-spacing 0.06em
+
+    .interactive-point .label::before
+        content "// "
+
+    .menu-trigger .button-inner,
+    .map-trigger .button-inner
+        border-color rgba(0, 229, 255, 0.35)
+        box-shadow 0 0 16px rgba(0, 229, 255, 0.2)
+
+    .touch-buttons .interact
+        font-family "JetBrains Mono", monospace
+        letter-spacing 0.05em
